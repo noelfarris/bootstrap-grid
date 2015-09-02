@@ -1,0 +1,116 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.css';
+
+body {
+	font-family: 'Open Sans';
+}
+.navbar {
+	margin-bottom: 0;
+}
+.navbar-default {
+	background-color: white;
+	border: white;
+		.navbar-brand {
+		font-size: 2em;
+		font-weight: 600;
+		margin: 23px 0 18px 28px;
+		font-family: 'Open Sans';
+		color: #3A8BCA;
+			p {
+			color: #666972;
+			display: inline;
+			}
+		}
+	.navbar-toggle {
+    border-color: #3A8BCA;
+    	.icon-bar {
+    		background-color: white;
+    		height: 5px;
+    	}
+	}	
+}
+
+.navbar-toggle {
+		background-color: #3A8BCA;
+		margin-top: 2em;
+		padding: 7px 5px;
+			.icon-bar {
+				width: 28px;
+			}
+}
+.description {
+	margin-left: 101px;
+	margin-right: 101px;
+}
+
+.hero {
+	background-image: url('../images/hero-dark.jpg');
+	height: 403px;
+	padding-top: 150px;
+	background-size: 100%;
+	margin-bottom: 33px;
+}
+h1 {
+	text-align: center;
+	font-family: 'Open Sans';
+	color: white;
+	font-weight: 650;
+}
+
+.welcome {
+	font-size: 21px;
+	color: #94989B;
+}
+
+.center {
+	text-align: center;
+	color: white;
+}
+
+h3 {
+	color: #A7A7A7;
+}
+
+p {
+	color: #A7A7A7;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 0px;
+    margin-bottom: 14px;
+}
+.btn-default {
+	background-color: #3A8BCA;
+	color: white;
+	width: 245px;
+}
+.button {
+	margin: 33px 0;
+}
+
+.well {
+	margin-left: 33px;
+	margin-right: 33px;
+}
+
+.bike {
+	padding-top: 35px;
+	margin-bottom: 35px;
+}
+
+.img-grid {
+	margin-bottom: 28px;
+	font-size: 18px;
+	color: #A7A7A7;
+}
+img {
+	width: 100%;
+	height: 100%;
+}
+.footer {
+	background-color: #3A414B;
+	padding: 37px;
+}
+
+.low-text {
+	margin-bottom: 59px;
+}
