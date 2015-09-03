@@ -38,7 +38,7 @@ body {
   background-image: url("../images/hero-dark.jpg");
   height: 403px;
   padding-top: 150px;
-  background-size: 100%;
+  background-size: cover;
   margin-bottom: 33px; }
 
 h1 {
@@ -72,10 +72,6 @@ h1, .h1, h2, .h2, h3, .h3 {
 
 .button {
   margin: 33px 0; }
-
-.well {
-  margin-left: 33px;
-  margin-right: 33px; }
 
 .bike {
   padding-top: 35px;
